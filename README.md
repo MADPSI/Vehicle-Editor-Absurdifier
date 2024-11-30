@@ -45,7 +45,7 @@ These mods are compatible with and expand on the Absurd Vehicle Editor, though n
   * [Building-Vehicle Fusion Snapping Fix](https://github.com/Valla-Chan/Spore-Mods/releases/tag/Spore_BVfusion_SnapFix) by Valla-Chan : An addon for the above mod which fixes the vehicle parts to properly stack and align to the center of other parts when used in the Building Editor.
 * (&) [Cheatbox](https://github.com/MADPSI/Cheatbox) by MADPSI : An extensive collection of cheats and keybinds that expands the functions of the Editors. Includes a cheat and bind for panning the camera and creating a placement grid, both available in the AVE.
 
-## Aknowledgements
+## Acknowledgements
 * [Splitwirez](https://github.com/Splitwirez) : Early developement assistance.
 * [ACyborgSquid](https://www.spore.com/view/myspore/MythicalMist) (MythicalMist) : _Extensive_ beta testing, troubleshooting and "free publicity".
 * All above mentioned suggested mod makers.
