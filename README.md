@@ -47,7 +47,41 @@ These mods are compatible with and expand on the Absurd Vehicle Editor, though n
 
 ## Acknowledgements
 * [Splitwirez](https://github.com/Splitwirez) : Early developement assistance.
-* [ACyborgSquid](https://www.spore.com/view/myspore/MythicalMist) (MythicalMist) : _Extensive_ beta testing, troubleshooting and "free publicity".
+* [ACyborgSquid](https://www.instagram.com/aaron_debney?igsh=MWJ0b251bzE1dnI1aw==) (MythicalMist) : _Extensive_ beta testing, troubleshooting and public representation.
 * All above mentioned suggested mod makers.
 * [DarkEdgeTV](https://x.com/DarkEdgeTV) : _Indirect_ suggestions.
 * [VanillaCold](https://github.com/VanillaCold) : AVE inspired by [Advanced CE](https://github.com/VanillaCold/Spore-AdvancedCE) mod.
+
+## Made with the Absurdifier
+### Salgan Rupture-class Destroyer (MythicalMist)
+![image](https://github.com/user-attachments/assets/a9f0bc60-dc20-4ae3-b386-630d2e8624e4)
+
+### Angel Cult War Balloon (MythicalMist)
+![image](https://github.com/user-attachments/assets/7b30c4da-ac5c-4534-9836-6e4fba4279db)
+
+### Angel Cult Mobile Church (MythicalMist)
+![image](https://github.com/user-attachments/assets/1f7f6b8b-8460-48dd-b992-43e4c023b1a2)
+
+### Angel Cult Mobile Pyre (MythicalMist)
+![image](https://github.com/user-attachments/assets/6c379bce-7943-4539-86a2-8b2f47c3ef42)
+
+### Angel Cult Crusade Buggy (MythicalMist)
+![image](https://github.com/user-attachments/assets/4fac3ef5-bd68-476f-9ddc-50bf91a568c0)
+
+### Decumarian Crusader (MythicalMist)
+![image](https://github.com/user-attachments/assets/ea6806b1-db1d-46db-a37a-ee02fbf17e68)
+
+### Decumarian Communion Shrine (MythicalMist)
+![image](https://github.com/user-attachments/assets/21755e5e-4b31-415e-bed8-af0e3ae17ab9)
+
+### Salgan Attack Vessel (MythicalMist)
+![image](https://github.com/user-attachments/assets/97802c26-7ecf-4a5d-b97c-4f32cb5b9802)
+
+### Deco Building (MythicalMist)
+![image](https://github.com/user-attachments/assets/50c6a80c-bd81-4074-a8f2-a4d06df5bfa8)
+
+### Futuristic Laser Cannon Cruiser (MythicalMist)
+![image](https://github.com/user-attachments/assets/512fed81-91f9-405a-8edf-085d449fb33e)
+
+### Super Planetbuster Laser Platform (MythicalMist)
+![image](https://github.com/user-attachments/assets/5d7b0582-4c44-427d-8444-6514c89c2972)
