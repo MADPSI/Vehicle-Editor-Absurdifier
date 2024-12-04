@@ -34,6 +34,8 @@ Due to the way Spore's Editors are programmed, Morph Handles, Rotation Rings, Ro
 
 This may be fixed later, but may require scripting, in turn requiring the use of the Spore ModAPI Launcher Kit or Spore Mod Loader.
 
+Additionally, a bug relating to Dark Injection causes Nudge (Square/Depth) Handles to be reset to their natural size. Seeing as barely any parts in the Vehicle / Building Editors use Nudge Handles, this rarely comes into play.
+
 ## Suggested Mods:
 These mods are compatible with and expand on the Absurd Vehicle Editor, though not all add content to the AVE directly. Mods requiring the SMAPILK or SML are indicated with an `&`:
 * (&) [EnterEditor](https://github.com/VanillaCold/SporeEnterEditor) by VanillaCold : Allows the user to access the Editor via the Cheat Console instead of being limited to only being able to run it from Command Line or Shortcuts. It can also be used to open Absurd Vehicles in any other Editor, including the UFO Editor. Doing this allows the user to access parts not directly available in the AVE, but in normal versions of the Vehicle Editor. The ID of the AVE is `vehicleabsurd`, therefor the command would be `entereditor vehicleabsurd` or `editcreation vehicleabsurd`.
