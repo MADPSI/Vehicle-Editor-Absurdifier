@@ -26,7 +26,7 @@ _Technical note: the mod also features the Creature Editor-specific capability t
 The boundaries of this Editor are considerably larger than any other version of the Editor, to frankly _absurd_ degree:
 * Height Limit: Upwards and Downwards height limit increased by 25x (from 10 in either direction to 250 in either (or from 20 in total to 500 in total)).
 * Radial Limit: Radius limit of the editor increased by roughly ~42x (from 6 units in radius to 250 (or from 12 in diametre to 500)).
-* Part Limit: Part limit increased to 1023 total parts (crashes if saved at 1024 excatly, and passed 1024 fails to load correctly after restarting the game).
+* Part Limit: Part limit increased to 1023 total parts (crashes if saved at 1024 parts exactly (exact cause unknown), and passed 1024 fails to load correctly after restarting the game).
 * Budget and Complexity: The part budget and complexity budget have both been increased to 999,999, effectively eliminating any concern for part costs outside of modded parts with purposefully high costs.
 
 ## Handle Modifications
