@@ -1,11 +1,11 @@
 # Vehicle Editor Absurdifier
-The Absurdifier is an extensively modified clone of the global Vehicle Editor template.
+The Absurdifier is an extensively modified clone of the global Vehicle Editor template, that is to say the master from which all other kinds of Vehicle Editor are derived. Instead of being a modification of any of those, it exists as its own seperate entity.
 
 ## Installation
-This mod requires a two-step process:
+This mod has a slightly more complicated than usual two-step process:
 
 ### Package Installation
-Use the [Spore ModAPI Launcher Kit](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/)'s _Easy Installer_ app or the [Spore Mod Loader](https://github.com/Rosalie241/SporeModLoader) command-line to install the `.package`. 
+Use the [Spore ModAPI Launcher Kit](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/)'s _Easy Installer_ app or the [Spore Mod Loader](https://github.com/Rosalie241/SporeModLoader) command-line to install the `.package`.
 
 ### State Configuration
 Due to being an independent Editor, a custom game state is required. This neccesitates a modified App States list (`SporeAppStates.txt`) including this new state. The file provided along with the mod in the Releases page. Save this new list to your `..\(Spore) Galactic Adventures\DataEP1\Config` folder. Most distribution platforms will likely have an option in the Properties menu for the game that takes the user directly to the game's installation directory. This will now allow the Editor to be accessed through Command Line or through a modified shortcut to the game, appending `-state:AbsurdVehicleEditor`. Most platforms will have an option in the Properties menu for the game to allow users to specify Command Line options.
