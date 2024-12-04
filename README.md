@@ -12,6 +12,8 @@ Due to being an independent Editor, a custom game state is required. This necces
 
 **Note:** The Absurd Editor cannot be re-entered this way until the game is restarted, unless using the **EnterEditor** mod listed under _Suggested Mods_. Future versions _might_ include a way to do so.
 
+**Warning: Do _not_ make any modifications to existing `states` present in `SporeAppStates.txt`. Removing or modifying them may result in soft-locking and/or crashes.**
+
 ## New Mechanics
 Technically not "new", but the mod features mechanics ported over from the Building Editor:
 * Hold `Ctrl` while moving a part to move it on its Z (Up/Down) Axis.
