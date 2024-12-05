@@ -46,7 +46,6 @@ These mods are compatible with and expand on the Absurd Vehicle Editor, though n
 * [Port and Starboard](https://github.com/Valla-Chan/Spore-Mods/releases/tag/SporePortAndStarbord) by Valla-Chan : Adds duplicates of the Vehicle Editor cockpits and chassis that function as detail parts, allowing you to place them on the sides of vehicles. Useful for sidestepping issues with Building Editor mechanics being used on those parts.
 * (&) [Wordsmith](https://github.com/Valla-Chan/Spore-Mods/releases/tag/SporeMod) by Valla-Chan : Adds letters from the Latin, Hiragana, and Katakana alphabets, as well as numbers and a few symbols, into the Vehicle (and Building) editors.
 * [Building & Vehicle Fusion](https://davoonline.com/phpBB3/viewtopic.php?f=118&t=5021) by mx3brainpower : Adds all vanilla Vehicle Parts into the Building Editor's palette and vice-versa.
-  * [Building-Vehicle Fusion Snapping Fix](https://github.com/Valla-Chan/Spore-Mods/releases/tag/Spore_BVfusion_SnapFix) by Valla-Chan : An addon for the above mod which fixes the vehicle parts to properly stack and align to the center of other parts when used in the Building Editor.
 * (&) [Cheatbox](https://github.com/MADPSI/Cheatbox) by MADPSI : An extensive collection of cheats and keybinds that expands the functions of the Editors. Includes a cheat and bind for panning the camera and creating a placement grid, both available in the AVE.
 
 ## Acknowledgements
